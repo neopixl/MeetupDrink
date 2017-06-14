@@ -1,0 +1,572 @@
+{
+    "bars": [
+      {
+        "ratings": 3.65,
+        "picture": {
+          "url": "http://mt0.nomao.com/pictures/79656259?w=45&h=45",
+          "id": 79656259
+        },
+        "name": "O'Sullivans (by the mill)",
+        "distance": "2.5 km",
+        "favorite": 0,
+        "picture_full": {
+          "url": "http://mt0.nomao.com/pictures/79656259",
+          "id": 79656259
+        },
+        "tags": "restaurant, soirée, pub, bar, DJ, irlandais, bar à bière, discothèque, anglais, bar à concerts, cartes de crédit acceptées, clubbing, ouvert le dimanche, boite de nuit, bar dansant",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.88407516479492,
+          "lng": 2.331998109817505
+        },
+        "average_reputation": 73,
+        "rates": 122,
+        "address": "92, Boulevard de Clichy 75018 Paris France",
+        "friends": [
+          
+        ],
+        "id": 1613240,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 4.05,
+        "picture": {
+          "url": "http://mt0.nomao.com/pictures/79653998?w=45&h=45",
+          "id": 79653998
+        },
+        "name": "Kitty O'Shea's Le Pub Irlandais",
+        "distance": "2.2 km",
+        "favorite": 0,
+        "picture_full": {
+          "url": "http://mt0.nomao.com/pictures/79653998",
+          "id": 79653998
+        },
+        "tags": "restaurant, pub, bar, café, britannique, irlandais, avec terrasse, brasserie, manger, à emporter, salades, bar à bière, climatisation, soirée, brunch",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.8688850402832,
+          "lng": 2.3295910358428955
+        },
+        "average_reputation": 81,
+        "rates": 101,
+        "address": "10 Rue des Capucines 75001 Paris France",
+        "friends": [
+          
+        ],
+        "id": 370728,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 3.8,
+        "picture": null,
+        "name": "Syphax Café",
+        "distance": "2.7 km",
+        "favorite": 0,
+        "picture_full": null,
+        "tags": "bar, restaurant, happy hour, café, cuisine française, bon marché, pub, soirée, américain, bar à bière, manger",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.87608337402344,
+          "lng": 2.337552309036255
+        },
+        "average_reputation": 76,
+        "rates": 119,
+        "address": "26, Rue de Chateaudun 75009 Paris France",
+        "friends": [
+          
+        ],
+        "id": 762663,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 4.25,
+        "picture": {
+          "url": "http://mt0.nomao.com/pictures/33923282?w=45&h=45",
+          "id": 33923282
+        },
+        "name": "Flute Bar",
+        "distance": "495 m",
+        "favorite": 0,
+        "picture_full": {
+          "url": "http://mt0.nomao.com/pictures/33923282",
+          "id": 33923282
+        },
+        "tags": "bar, restaurant, romantique, cuisine française, cuisine du monde, café, à la mode, bar à vin, vietnamien, lounge, cartes de crédit acceptées, happy hour, tapas, soirée, Petit déjeuner continental",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.87760543823242,
+          "lng": 2.295034170150757
+        },
+        "average_reputation": 85,
+        "rates": 87,
+        "address": "19, rue de l'Etoile 75017 Paris France",
+        "friends": [
+          
+        ],
+        "id": 1633582,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 4.0,
+        "picture": {
+          "url": "http://mt0.nomao.com/pictures/45720154?w=45&h=45",
+          "id": 45720154
+        },
+        "name": "Corcoran's",
+        "distance": "2.4 km",
+        "favorite": 0,
+        "picture_full": {
+          "url": "http://mt0.nomao.com/pictures/45720154",
+          "id": 45720154
+        },
+        "tags": "restaurant, pub, bar, café, à emporter, soirée, britannique, bon marché, avec terrasse, brasserie, irlandais, bar à bière, manger, avec parking, parking",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.88441848754883,
+          "lng": 2.3305909633636475
+        },
+        "average_reputation": 80,
+        "rates": 61,
+        "address": "110 Boulevard de Clichy 75018 Paris France",
+        "friends": [
+          
+        ],
+        "id": 2095079,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 3.85,
+        "picture": null,
+        "name": "The Freedom",
+        "distance": "403 m",
+        "favorite": 0,
+        "picture_full": null,
+        "tags": "bar, pub, restaurant, bar à bière, café, boite de nuit, ouvert le dimanche, anglais, américain, soirée",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.87224197387695,
+          "lng": 2.3039183616638184
+        },
+        "average_reputation": 77,
+        "rates": 61,
+        "address": "8 Rue de Berri 75008 Paris France",
+        "friends": [
+          
+        ],
+        "id": 1641874,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 4.4,
+        "picture": null,
+        "name": "Les Caves Populaires",
+        "distance": "2.0 km",
+        "favorite": 0,
+        "picture_full": null,
+        "tags": "bar, restaurant, café, ouvert le dimanche, pub, bar à vin, à emporter, after work, accès wifi, soirée, à la mode, crêperie, familial, bio, végétarien",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.8847541809082,
+          "lng": 2.3246958255767822
+        },
+        "average_reputation": 88,
+        "rates": 121,
+        "address": "22 Rue des Dames 75017 Paris France",
+        "friends": [
+          
+        ],
+        "id": 1613050,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 3.5,
+        "picture": {
+          "url": "http://mt0.nomao.com/pictures/60606995?w=45&h=45",
+          "id": 60606995
+        },
+        "name": "Les Planches",
+        "distance": "842 m",
+        "favorite": 0,
+        "picture_full": {
+          "url": "http://mt0.nomao.com/pictures/60606995",
+          "id": 60606995
+        },
+        "tags": "after work, soirée, discothèque, club, boite de nuit, restaurant, bar, à la mode, cartes de crédit acceptées, clubbing, café, bar à concerts, sympa",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.87164306640625,
+          "lng": 2.3109002113342285
+        },
+        "average_reputation": 70,
+        "rates": 259,
+        "address": "40, Rue du Colisée 75008 Paris France",
+        "friends": [
+          
+        ],
+        "id": 540791,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 3.65,
+        "picture": {
+          "url": "http://mt0.nomao.com/pictures/214817?w=45&h=45",
+          "id": 214817
+        },
+        "name": "CARR’S",
+        "distance": "2.4 km",
+        "favorite": 0,
+        "picture_full": {
+          "url": "http://mt0.nomao.com/pictures/214817",
+          "id": 214817
+        },
+        "tags": "restaurant, irlandais, bar, soirée, pub, britannique, manger, bar à concerts, bar à bière, cartes de crédit acceptées, brunch, café, américain",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.865325927734375,
+          "lng": 2.3296620845794678
+        },
+        "average_reputation": 73,
+        "rates": 26,
+        "address": "1 Rue du Mont Thabor 75001 Paris France",
+        "friends": [
+          
+        ],
+        "id": 214814,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 4.0,
+        "picture": null,
+        "name": "O' Malley",
+        "distance": "2.9 km",
+        "favorite": 0,
+        "picture_full": null,
+        "tags": "restaurant, pub, bar, accès wifi, salades, avec terrasse, bar à bière, britannique, brasserie, happy hour, bistrot, irlandais, café, cuisine française, manger",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.869144439697266,
+          "lng": 2.3390889167785645
+        },
+        "average_reputation": 80,
+        "rates": 31,
+        "address": "6 Rue du 4 Septembre 75002 Paris France",
+        "friends": [
+          
+        ],
+        "id": 112861,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 3.7,
+        "picture": null,
+        "name": "Serena Club",
+        "distance": "2.9 km",
+        "favorite": 0,
+        "picture_full": null,
+        "tags": "happy hour, boite de nuit, soirée, club privé, bar dansant, discothèque, bar, club",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.87038040161133,
+          "lng": 2.339287042617798
+        },
+        "average_reputation": 74,
+        "rates": 80,
+        "address": "92 Rue de Richelieu 75002 Paris France",
+        "friends": [
+          
+        ],
+        "id": 2127769,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 2.9,
+        "picture": null,
+        "name": "The Cricketer Pub",
+        "distance": "1.7 km",
+        "favorite": 0,
+        "picture_full": null,
+        "tags": "restaurant, café, romantique, pub, happy hour, salon de thé, soirée, bar à bière, Bar à jeux, climatisation, bar, manger, quiz night",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.87330627441406,
+          "lng": 2.3241567611694336
+        },
+        "average_reputation": 58,
+        "rates": 16,
+        "address": "41 Rue des Mathurins 75008 Paris France",
+        "friends": [
+          
+        ],
+        "id": 1641863,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 4.2,
+        "picture": null,
+        "name": "The Bowler",
+        "distance": "548 m",
+        "favorite": 0,
+        "picture_full": null,
+        "tags": "pub, restaurant, café, bar, britannique, happy hour, ouvert le dimanche, bar à bière, salon de thé, soirée, snack",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.873085021972656,
+          "lng": 2.307502031326294
+        },
+        "average_reputation": 84,
+        "rates": 64,
+        "address": "13 Rue d'Artois 75008 Paris France",
+        "friends": [
+          
+        ],
+        "id": 2199061,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 4.1,
+        "picture": null,
+        "name": "West Bar",
+        "distance": "1.7 km",
+        "favorite": 0,
+        "picture_full": null,
+        "tags": "bar, café, brasserie, pub, salon de thé, soirée",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.88622283935547,
+          "lng": 2.3175506591796875
+        },
+        "average_reputation": 82,
+        "rates": 28,
+        "address": "61 Rue Legendre 75017 Paris France",
+        "friends": [
+          
+        ],
+        "id": 1642213,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 3.5,
+        "picture": {
+          "url": "http://mt0.nomao.com/pictures/79654000?w=45&h=45",
+          "id": 79654000
+        },
+        "name": "JAMES JOYCE PUB",
+        "distance": "1.3 km",
+        "favorite": 0,
+        "picture_full": {
+          "url": "http://mt0.nomao.com/pictures/79654000",
+          "id": 79654000
+        },
+        "tags": "restaurant, irlandais, bar, pub, cuisine française, bar à bière, American Express acceptée, lounge, cartes de crédit acceptées, boite de nuit, britannique, anglais, manger, soirée",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.88027572631836,
+          "lng": 2.285223960876465
+        },
+        "average_reputation": 70,
+        "rates": 70,
+        "address": "71 Boulevard Gouvion-Saint-Cyr 75017 Paris France",
+        "friends": [
+          
+        ],
+        "id": 5181806,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 4.0,
+        "picture": null,
+        "name": "Chez Camille",
+        "distance": "2.9 km",
+        "favorite": 0,
+        "picture_full": null,
+        "tags": "café, bar, pub, salon de thé, soirée",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.885494232177734,
+          "lng": 2.337891101837158
+        },
+        "average_reputation": 80,
+        "rates": 10,
+        "address": "8 Rue Ravignan 75018 Paris France",
+        "friends": [
+          
+        ],
+        "id": 1042937,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 4.45,
+        "picture": null,
+        "name": "Au petit Douai",
+        "distance": "2.4 km",
+        "favorite": 0,
+        "picture_full": null,
+        "tags": "restaurant, bar, pub, cuisine française, café, soirée, manger",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.88277816772461,
+          "lng": 2.332181930541992
+        },
+        "average_reputation": 89,
+        "rates": 7,
+        "address": "38 Rue de Douai 75009 Paris France",
+        "friends": [
+          
+        ],
+        "id": 5181530,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 3.85,
+        "picture": {
+          "url": "http://mt0.nomao.com/pictures/37211075?w=45&h=45",
+          "id": 37211075
+        },
+        "name": "Queenie",
+        "distance": "418 m",
+        "favorite": 0,
+        "picture_full": {
+          "url": "http://mt0.nomao.com/pictures/37211075",
+          "id": 37211075
+        },
+        "tags": "restaurant, cuisine du monde, lounge, salle de concerts, asiatique, boite de nuit, dîner, discothèque, cuisine, climatisation, grillades, américain, ouvert le dimanche, anglais, bar",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.87168502807617,
+          "lng": 2.302781105041504
+        },
+        "average_reputation": 77,
+        "rates": 37,
+        "address": "5 Rue de Berri 75008 Paris France",
+        "friends": [
+          
+        ],
+        "id": 104460,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 4.25,
+        "picture": null,
+        "name": "Moving Pints",
+        "distance": "2.4 km",
+        "favorite": 0,
+        "picture_full": null,
+        "tags": "bar, restaurant, pub, café, ouvert le dimanche, bon marché, accès wifi, boite de nuit, irlandais, bar à bière, manger, soirée, avec parking, parking",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.88446044921875,
+          "lng": 2.330392599105835
+        },
+        "average_reputation": 85,
+        "rates": 8,
+        "address": "118 Boulevard de Clichy 75018 Paris France",
+        "friends": [
+          
+        ],
+        "id": 1613316,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      },
+      {
+        "ratings": 3.8,
+        "picture": null,
+        "name": "Cafe Le Centre",
+        "distance": "2.7 km",
+        "favorite": 0,
+        "picture_full": null,
+        "tags": "café, bar, pub, cuisine française, restaurant, brasserie, avec terrasse, pont, salon de thé, soirée",
+        "closeness": 0,
+        "coordinates": {
+          "lat": 48.88483428955078,
+          "lng": 2.266649007797241
+        },
+        "average_reputation": 76,
+        "rates": 5,
+        "address": "22 Rue des Huissiers 92200 Neuilly-sur-Seine France",
+        "friends": [
+          
+        ],
+        "id": 1054431,
+        "features": {
+          "bookingType": null,
+          "call": true,
+          "booking": null
+        }
+      }
+    ]
+}

@@ -1,4 +1,4 @@
-## Meetup drink
+## Meetup drink - Kotlin Discovery
 
 Meetup : [https://www.meetup.com/Kotlin-Paris-Meetup/events/240175863/](https://www.meetup.com/Kotlin-Paris-Meetup/events/240175863/)
 

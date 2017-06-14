@@ -21,10 +21,10 @@ Presentators
 [@NEOPIXL](http://neopixl.com/) AND
 [@SMILE](http://www.smile.fr/)
 
-Fabrice DEWASMES : [https://twitter.com/fdewasmes](https://twitter.com/fdewasmes)
+Fabrice DEWASMES : [Twitter](https://twitter.com/fdewasmes)
 
-Yvan MOTE : [https://twitter.com/savepanda](https://twitter.com/savepanda)
+Yvan MOTE : [Twitter](https://twitter.com/savepanda)
 
-Florian ALONSO : [https://twitter.com/AlonsoFloo](https://twitter.com/AlonsoFloo)
+Florian ALONSO : [Twitter](https://twitter.com/AlonsoFloo)
 
 

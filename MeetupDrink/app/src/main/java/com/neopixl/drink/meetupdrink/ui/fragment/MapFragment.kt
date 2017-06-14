@@ -37,7 +37,7 @@ class MapFragment : Fragment() {
     override fun onCreateView(inflater: LayoutInflater?, container: ViewGroup?,
                               savedInstanceState: Bundle?): View? {
         // Inflate the layout for this fragment
-        val rootView = inflater!!.inflate(R.layout.fragment_map, container, false)
+        val rootView = inflater?.inflate(R.layout.fragment_map, container, false) ?: return null
 
         mapView = rootView.find<MapView>(R.id.mapView)
         mapView.onCreate(savedInstanceState)

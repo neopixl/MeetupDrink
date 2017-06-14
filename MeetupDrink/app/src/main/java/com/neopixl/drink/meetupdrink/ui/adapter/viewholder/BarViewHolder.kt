@@ -16,7 +16,11 @@ class BarViewHolder(itemView: View): BaseViewHolder(itemView) {
 
     val nameTextView by bindView<TextView>(R.id.name)
 
-    fun setBar(bar: Bar) {
-        nameTextView.text = bar.name
-    }
+    var bar: Bar? = null
+        get
+        set(value) {
+            nameTextView.text = bar?.name
+
+        }
+
 }

@@ -17,7 +17,7 @@ class BarAdapter(var barList: List<Bar>): BaseAdapter<BarViewHolder>() {
     override fun onBindViewHolder(viewHolder: BarViewHolder, position: Int) {
         super.onBindViewHolder(viewHolder, position)
 
-        viewHolder.setBar(barList[position])
+        viewHolder.bar = barList[position]
     }
 
     override fun getItemCount(): Int {

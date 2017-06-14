@@ -18,10 +18,8 @@ open class BaseViewHolder(itemView: View): RecyclerView.ViewHolder(itemView) {
     var listener: OnClickListener? = null
 
     init {
-        itemView.setOnClickListener(
-                View.OnClickListener {
-                    listener?.onClick(this)
-                }
-        )
+        itemView.setOnClickListener({
+            listener?.onClick(this)
+        })
     }
 }

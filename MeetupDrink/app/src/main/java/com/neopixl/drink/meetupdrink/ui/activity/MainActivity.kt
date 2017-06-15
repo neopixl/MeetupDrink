@@ -14,13 +14,14 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val barList = BarService.shared.barList(this)
+        val sortedList = barList.sortedWith(compareBy({ it.name }, { it.ratings }))
 
-        val listFragment = ListFragment.newInstance()
+        val listFragment = ListFragment.newInstance(sortedList)
         supportFragmentManager.beginTransaction()
                 .add(R.id.bottom_container, listFragment)
                 .commit()
 
-        val mapFragment = MapFragment.newInstance(barList)
+        val mapFragment = MapFragment.newInstance(sortedList)
         supportFragmentManager.beginTransaction()
                 .add(R.id.top_container, mapFragment)
                 .commit()

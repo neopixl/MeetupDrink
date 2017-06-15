@@ -19,7 +19,7 @@ class BarViewHolder(itemView: View): BaseViewHolder(itemView) {
     var bar: Bar? = null
         get
         set(value) {
-            nameTextView.text = bar?.name
+            nameTextView.text = value?.name
 
         }
 
